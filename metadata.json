@@ -1,13 +1,8 @@
 {
-  "name": "StudyAI - Chatbot mini",
+  "name": "StudyAI",
   "description": "Một ứng dụng chatbot học tập thông minh, thân thiện giúp giải đáp mọi thắc mắc của bạn với giao diện tươi sáng và dễ thương.",
   "requestFramePermissions": [
     "microphone"
   ],
-  "majorCapabilities": [
-    "AI Chat",
-    "Math Solving",
-    "Voice to Text",
-    "User Accounts"
-  ]
+  "majorCapabilities": []
 }
